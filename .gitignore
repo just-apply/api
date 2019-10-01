@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JustApply Server Side/JustApply.Api/bin
+/JustApply Server Side/JustApply.Api/obj
+/JustApply Server Side/.vs
